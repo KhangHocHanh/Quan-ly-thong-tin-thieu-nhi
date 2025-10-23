@@ -1,4 +1,4 @@
-namespace VinhHiepApp.API.Models
+namespace VinhHiepApp.Web.Models
 {
     public class ErrorViewModel
     {
